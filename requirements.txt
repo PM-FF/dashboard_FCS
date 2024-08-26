@@ -1,0 +1,8 @@
+gunicorn
+Flask>=2.0
+dash>=2.0.0
+pandas
+plotly>=5.0.0
+dash-bootstrap-components
+openpyxl
+dash-mantine-components==0.13.0a2
