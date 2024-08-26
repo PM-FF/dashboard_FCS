@@ -19,7 +19,7 @@ from flask import Flask, send_file, make_response
 
 import urllib.parse
 
-from Dashboard.sidebar.data import process_data
+from data import process_data
 
 
 def set_fund_name(df):
@@ -858,8 +858,7 @@ def safe_read_excel(file_path, sheet_name, **kwargs):
 
 
 def load_data():
-    base_dir = r"C:\Users\H6289\Documents\workspace\dsProjects\Dashboard"
-    # base_dir = os.path.dirname(__file__)
+    base_dir = os.path.dirname(__file__)
 
     paths = dict(
         data=os.path.join(base_dir, 'data', 'data.xlsx'),
