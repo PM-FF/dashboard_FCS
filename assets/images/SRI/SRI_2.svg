@@ -1,0 +1,42 @@
+<svg width="770" height="240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+        text {
+          font-family: 'Roboto Mono', monospace;
+        }
+        .roboto-text {
+          font-family: 'Roboto', sans-serif;
+          font-weight: 300;
+        }
+      ]]>
+    </style>
+  </defs>
+  <g>
+    <path id="item_1" d="m50.92757,47.40911l101.01443,0l-0.94199,79.44927c0,8.15068 -6.84932,15 -15,15l-70,0c-8.15068,0 -15,-6.84932 -15,-15l-0.07243,-79.44927l-0.00001,0z" fill="white" stroke="#00164f" stroke-width="6" opacity="undefined" transform="rotate(90 101.435 94.6337)"/>
+    <rect id="item_2" x="151.17737" y="44.07644" width="93.52379" height="100.85095" fill="#00164f" stroke="#00164f" stroke-width="6"/>
+    <path id="item_3" d="m243.39769,44l93.52379,0l0,100.85095l-93.52379,0l0,-100.85095z" fill="white" stroke="#00164f" stroke-width="6" opacity="undefined"/>
+    <rect id="item_4" x="337.46729" y="44.07644" width="93.52379" height="100.85095" fill="white" stroke="#00164f" stroke-width="6"/>
+    <path id="item_5" d="m431.37355,44.07644l93.52379,0l0,100.85095l-93.52379,0l0,-100.85095z" fill="white" stroke="#00164f" stroke-width="6" opacity="undefined"/>
+    <path id="item_6" d="m525.54026,44.07644l93.52379,0l0,100.85095l-93.52379,0l0,-100.85095z" fill="white" stroke="#00164f" stroke-width="6" opacity="undefined"/>
+    <path id="item_7" d="m616.50445,47.36262l101.01442,0l-0.94199,79.44927c0,8.15068 -6.84932,15 -15,15l-70,0c-8.15068,0 -15,-6.84932 -15,-15l-0.07243,-79.44927z" fill="white" stroke="#00164f" stroke-width="6" opacity="undefined" transform="rotate(-90 667.01 94.5873)"/>
+
+    <text id="label_1" x="90" y="109" fill="#000000" stroke="#000" stroke-width="0" font-size="43" font-family="'Roboto Mono'" text-anchor="start" xml:space="preserve" font-weight="bold">1</text>
+    <text id="label_2" x="180" y="113" fill="#ffffff" stroke="#000" stroke-width="0" font-size="60" font-family="'Roboto Mono'" text-anchor="start" xml:space="preserve" font-weight="bold">2</text>
+    <text id="label_3" x="275" y="109" fill="#000000" stroke="#000" stroke-width="0" font-size="43" font-family="'Roboto Mono'" text-anchor="start" xml:space="preserve" font-weight="bold">3</text>
+    <text id="label_4" x="369" y="109" fill="#000000" stroke="#000" stroke-width="0" font-size="43" font-family="'Roboto Mono'" text-anchor="start" xml:space="preserve" font-weight="bold">4</text>
+    <text id="label_5" x="464" y="109" fill="#000000" stroke="#000" stroke-width="0" font-size="43" font-family="'Roboto Mono'" text-anchor="start" xml:space="preserve" font-weight="bold">5</text>
+    <text id="label_6" x="560" y="109" fill="#000000" stroke="#000" stroke-width="0" font-size="43" font-family="'Roboto Mono'" text-anchor="start" xml:space="preserve" font-weight="bold">6</text>
+    <text id="label_7" x="654" y="109" fill="#000000" stroke="#000" stroke-width="0" font-size="43" font-family="'Roboto Mono'" text-anchor="start" xml:space="preserve" font-weight="bold">7</text>
+
+    <line id="line" x1="52.69444" y1="173.30556" x2="718.69444" y2="173.30556" stroke="black" stroke-width="4" fill="none"/>
+    <path id="arrow_left" d="m716.41665,179.75397l7.16228,-13.02179l7.16228,13.02179l-3.58114,0l-7.16228,0l-3.58114,0z" fill="#000000" stroke="#000" transform="rotate(90 723.579 173.243)"/>
+    <path id="arrow_right" d="m39.04624,179.92705l7.16229,-13.02179l7.16228,13.02179l-3.58114,0l-7.16228,0l-3.58115,0z" fill="#000000" stroke="#000" transform="rotate(-90 46.2085 173.416)"/>
+
+    <text class="roboto-text" id="svg_22" x="53.12989" y="211" fill="#000000" stroke="#000" font-size="19" font-family="'Roboto'" text-anchor="start" xml:space="preserve" font-style="normal" font-weight="normal">RISQUE LE PLUS FAIBLE</text>
+    <text class="roboto-text" id="svg_23" x="496.18789" y="211" fill="#000000" stroke="#000" font-size="19" font-family="'Roboto'" text-anchor="start" xml:space="preserve" font-style="normal" font-weight="normal">RISQUE LE PLUS ÉLEVÉ</text>
+
+  </g>
+</svg>
